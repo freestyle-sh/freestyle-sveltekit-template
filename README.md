@@ -1,4 +1,4 @@
-# Freestyle X SvelteKit Template
+# [Freestyle](https://www.freestyle.sh) X [SvelteKit](https://kit.svelte.dev) Template
 
 This is a template for creating a SvelteKit project with Freestyle.
 
